@@ -1,1 +1,1 @@
-# qa_guru_python_2
+# homework_2_python_pytest
